@@ -27,9 +27,15 @@ TravelWithMaya is a responsive travel website created using WordPress. The websi
 
 ## 📸 Screenshots
 
-| Home | Destinations |
-|------|-------------|
-| ![](screenshots/home.png) | ![](screenshots/destinations.png) |
+### 🏠 Home Page
+<img src="https://github.com/user-attachments/assets/84fa67fc-37e5-4fcd-be9c-e9a381f6155d" width="800"/>
+
+### 🌍 About Page
+<img src="https://github.com/user-attachments/assets/f314434e-c510-443a-bc0b-eb3cee101266" width="800"/>
+
+### 📞 Contact Page
+<img src="https://github.com/user-attachments/assets/6ab382ee-7423-4f23-b4c6-d81b2652d65c" width="800"/>
+
 
 ## 🎯 Purpose
 
